@@ -1,0 +1,629 @@
+[
+  {
+    "name": "Injectigos #5266",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/5266.png",
+    "dna": "e01e1c03dd35874006196ca92b35da71975a6bd2",
+    "edition": 5266,
+    "date": 1703275071526,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Chick",
+        "value": "chick"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #92",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/92.png",
+    "dna": "c0d45b0e5acd92a5c6a1151586ac5aa1df254500",
+    "edition": 92,
+    "date": 1703275071648,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Chick",
+        "value": "chick"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #2462",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/2462.png",
+    "dna": "48d3f8fe902e0fa77841afdf0a3876e31260917c",
+    "edition": 2462,
+    "date": 1703275071758,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Chick",
+        "value": "chick"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #5333",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/5333.png",
+    "dna": "97e5645327eabc84530456df12098a1d775a33ef",
+    "edition": 5333,
+    "date": 1703275071869,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Chick",
+        "value": "chick"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #2796",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/2796.png",
+    "dna": "dc2c2d4ba873e0ce308a449c63b29ac81b05b5cd",
+    "edition": 2796,
+    "date": 1703275071980,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Bunny",
+        "value": "Grey"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #710",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/710.png",
+    "dna": "e0e75214875fb7e816ba4757ee67449bd0a0257b",
+    "edition": 710,
+    "date": 1703275072090,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Bunny",
+        "value": "White"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #2794",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/2794.png",
+    "dna": "8f158675e49ab9f4a4a554d2f01abd4d008b2bdb",
+    "edition": 2794,
+    "date": 1703275072199,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Bunny",
+        "value": "Grey"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #4382",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/4382.png",
+    "dna": "209d90a0e98d848e01ae415d07debdbccf5c45e4",
+    "edition": 4382,
+    "date": 1703275072309,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Bunny",
+        "value": "Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #5218",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/5218.png",
+    "dna": "d936e8fea9e377b97ca569719aa10d36c0483502",
+    "edition": 5218,
+    "date": 1703275072423,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Bunny",
+        "value": "Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #2260",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/2260.png",
+    "dna": "8e398f7bcea4e29c943c044bd90495bdaffc5baa",
+    "edition": 2260,
+    "date": 1703275072527,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Bunny",
+        "value": "Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #4637",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/4637.png",
+    "dna": "ad3915580f936ead60f6dfe418ed5ff6c73946d9",
+    "edition": 4637,
+    "date": 1703275072633,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Bear",
+        "value": "Light Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #5250",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/5250.png",
+    "dna": "c163a760eb4a1d50141e62510453660ebba71ec3",
+    "edition": 5250,
+    "date": 1703275072737,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Bear",
+        "value": "Light Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #3900",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/3900.png",
+    "dna": "a8e5ff809815398564574544e8a94a49365238b5",
+    "edition": 3900,
+    "date": 1703275072841,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Bear",
+        "value": "Dark Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #811",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/811.png",
+    "dna": "8b9cfd4075aa71e87d92684656812042f0b42e10",
+    "edition": 811,
+    "date": 1703275072945,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Bear",
+        "value": "Dark Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #3554",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/3554.png",
+    "dna": "e61bc6f4b0056fed455fa799fc7f6f987a534da0",
+    "edition": 3554,
+    "date": 1703275073053,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Bear",
+        "value": "Black"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #3142",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/3142.png",
+    "dna": "5ea0aa1f944ba787bbc2dd8d7a2cefe276c34e7a",
+    "edition": 3142,
+    "date": 1703275073162,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Bear",
+        "value": "Dark Brown"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #5198",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/5198.png",
+    "dna": "4b441e707e38b9593fdfee04556102e9494c0c6c",
+    "edition": 5198,
+    "date": 1703275073279,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Heart",
+        "value": "Red"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #1896",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/1896.png",
+    "dna": "889a4dbea203478efb7d2bf1484135aa251f1a4a",
+    "edition": 1896,
+    "date": 1703275073385,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Heart",
+        "value": "Red"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #2151",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/2151.png",
+    "dna": "e3d11cfb9c15c017d1c60467ff43aeb122105f95",
+    "edition": 2151,
+    "date": 1703275073489,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Black"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #3418",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/3418.png",
+    "dna": "5476602594e91510b6f76d2397dc88b9713f0ae8",
+    "edition": 3418,
+    "date": 1703275073594,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Yellow"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #5032",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/5032.png",
+    "dna": "6d1ea725e67be35fda8343ca385e1d685b06712c",
+    "edition": 5032,
+    "date": 1703275073698,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Green"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #1009",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/1009.png",
+    "dna": "bb7e12f820bf9f17ed6151f0c0a3af51d333ab24",
+    "edition": 1009,
+    "date": 1703275073801,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Black"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #1986",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/1986.png",
+    "dna": "039b6d7220d64c0cee8474c92b4ed09ab02f6bc0",
+    "edition": 1986,
+    "date": 1703275073906,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Black"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #3860",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/3860.png",
+    "dna": "4dd0b8daeb6366fd96412e345eff6e5e202d41b7",
+    "edition": 3860,
+    "date": 1703275074011,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Yellow"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #2406",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/2406.png",
+    "dna": "8710dc0b3533da2f927667d016a13601b40acaa9",
+    "edition": 2406,
+    "date": 1703275074120,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Black"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #1894",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/1894.png",
+    "dna": "324a30c7f6eb495bec8dfeef448924e1d94b40ac",
+    "edition": 1894,
+    "date": 1703275074234,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Yellow"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #1998",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/1998.png",
+    "dna": "b4107e2a82dcafbda93eae4b3a4ee2291af24bc8",
+    "edition": 1998,
+    "date": 1703275074337,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Red"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #20",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/20.png",
+    "dna": "62917cb60e69906ce1090cad5da25c1662f41cc3",
+    "edition": 20,
+    "date": 1703275074440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Green"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #218",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/218.png",
+    "dna": "67d6a38a4062b228cca9a4b339010403a26f5dd6",
+    "edition": 218,
+    "date": 1703275074543,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Black"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #112",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/112.png",
+    "dna": "af82e89a3c777fa48f06d5cfce652aa26323f460",
+    "edition": 112,
+    "date": 1703275074645,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Red"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #1621",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/1621.png",
+    "dna": "6626ff1147921e36eb7a36712d6c6f15715e47af",
+    "edition": 1621,
+    "date": 1703275074748,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Green"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #4474",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/4474.png",
+    "dna": "636ba1d9709ff3dec1a648e560ac120223dd2c1a",
+    "edition": 4474,
+    "date": 1703275074852,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Green"
+      }
+    ],
+    "compiler": "MBO"
+  },
+  {
+    "name": "Injectigos #4078",
+    "description": "5555 unique one eyed cyclops #InjectiveNFTs collection!",
+    "image": "#/4078.png",
+    "dna": "43115af1fa816c765580a1451202fdcdd41d46e9",
+    "edition": 4078,
+    "date": 1703275074960,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Ninja",
+        "value": "Ninja Green"
+      }
+    ],
+    "compiler": "MBO"
+  }
+]
